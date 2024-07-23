@@ -2,6 +2,9 @@
 
 This is a movie website built with ReactJS and React Router DOM. The website allows users to browse and search for movies, view movie details, and navigate between different pages seamlessly.
 
+![alt text](https://github.com/medhatjachour/reactMovie/blob/main/sample/img1.png?raw=true)
+![alt text](https://github.com/medhatjachour/reactMovie/blob/main/sample/img2.png?raw=true)
+![alt text](https://github.com/medhatjachour/reactMovie/blob/main/sample/img3.png?raw=true)
 ## Features
 
 - **Browse Movies**: View a list of popular movies.
